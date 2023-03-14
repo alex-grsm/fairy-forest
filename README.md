@@ -1,5 +1,4 @@
-# fairy-forest
-Fairy Forest - parallax
+# Fairy Forest - parallax
 
 https://alex-grsm.github.io/showcase/fairy-forest/
 
